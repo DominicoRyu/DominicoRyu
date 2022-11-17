@@ -22,4 +22,4 @@ liuss98](http://mazassumnida.wtf/api/v2/generate_badge?boj=liuss98)](https://sol
 <img src="http://mazandi.herokuapp.com/api?handle=liuss98&theme=warm"/>
 
 
-<img src="https://simpleicons.org/python-3776AB?style=flat-square&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
