@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+git clone git@github.com:rishavanand/github-profilinator.git
+cd github-profilinator
 
 
 [![Solved.ac
