@@ -1,5 +1,5 @@
 ## Hi there 👋
-🔭Major: Applied Physics & Artificial Intelligence
+🔭Major: Applied Physics & Artificial Intelligence \n
 🌱 Learning: 3D reconstruction, Face recognition, SLAM
 
 
