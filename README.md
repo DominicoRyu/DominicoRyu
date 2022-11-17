@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-git clone git@github.com:rishavanand/github-profilinator.git
-cd github-profilinator
-
 
 [![Solved.ac
 liuss98](http://mazassumnida.wtf/api/v2/generate_badge?boj=liuss98)](https://solved.ac/liuss98)
 <img src="http://mazandi.herokuapp.com/api?handle=liuss98&theme=warm"/>
+
+
+<img src="https://simpleicons.org/python-3776AB?style=flat-square&logo=python&logoColor=3776AB"/>
