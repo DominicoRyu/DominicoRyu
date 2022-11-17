@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 [![Solved.ac
 liuss98](http://mazassumnida.wtf/api/v2/generate_badge?boj=liuss98)](https://solved.ac/liuss98)
-<img src="http://mazandi.herokuapp.com/api?handle={liuss98}&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=liuss98&theme=warm"/>
