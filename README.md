@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Dominico%20Ryu&fontSize=80)
+
 
 [![Solved.ac
 liuss98](http://mazassumnida.wtf/api/v2/generate_badge?boj=liuss98)](https://solved.ac/liuss98)
