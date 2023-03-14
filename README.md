@@ -1,8 +1,10 @@
 ## Hi there 👋
 🔭Major: Applied Physics & Artificial Intelligence 
 
-🌱 Learning: 3D reconstruction, Face recognition, SLAM
+🌱 Learning: 3D reconstruction, Neural geometry estimation
 
+
+![Dominico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominicoRyu&show_icons=true&theme=transparent)
 
 
 
@@ -31,5 +33,4 @@ Here are some ideas to get you started:
 liuss98](http://mazassumnida.wtf/api/v2/generate_badge?boj=liuss98)](https://solved.ac/liuss98)
 <img src="http://mazandi.herokuapp.com/api?handle=liuss98&theme=warm"/>
 
-![Dominico's GitHub stats](https://github-readme-stats.vercel.app/api?username=DominicoRyu&show_icons=true&theme=transparent)
 
